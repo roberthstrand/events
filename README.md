@@ -11,6 +11,7 @@
 | [Azure Open Source Breakfast](https://meetu.ps/e/LSn47/H9Sc9/i) | March 17 | Standing on shoulders of giant - Building services with open source projects | N/A |
 | [KubeCon Europe 2023](https://kccnceu2023.sched.com/event/1HydD) | April 21 2023 | How GitOps Changed Our Lives & Can Change Yours Too! | N/A |
 | PSConf EU 2023 | June 19th 2023 | Building APIs and backend services that run PowerShell | N/A |
+| [NNUG Oslo](https://www.meetup.com/nnugoslo/events/295947044/) | September 19th 2023 | Platform Engineering, The how, why and what | [YouTube](https://www.youtube.com/watch?v=-2x9-tGzc-U) |
 
 ## 2022
 
